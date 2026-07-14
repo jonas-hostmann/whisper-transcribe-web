@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask-CORS==4.0.1
+openai-whisper==20231117
+torch==2.2.2
+numpy==1.26.4
+tiktoken==0.7.0
+more-itertools==10.2.0
+tqdm==4.66.4
+ffmpeg-python==0.2.0
